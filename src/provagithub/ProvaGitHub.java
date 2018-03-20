@@ -18,6 +18,7 @@ public class ProvaGitHub {
         // TODO code application logic here
         
         System.out.println("Hola GitHub!!");
+        System.out.println("Vaig a pujar això al github!!");
     }
     
 }
